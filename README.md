@@ -1,5 +1,7 @@
 1. Jelaskan arti angka dari versi python di bawah ini.
+
  ![python 1](https://user-images.githubusercontent.com/93025147/138690030-b28342cd-ac04-452b-b473-d2208fc9f7bf.png)
+ 
 angka tersebut merupakan versi dari python itu sendiri, angka tersebut udah versi tertinggi saat ini, angka 10 digambar memberitahukan bahwa python sudah mengalami updateselama 10 kali. 
 
 2. Buatlah tutorial setiap fugsi pada tools vs-code
