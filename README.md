@@ -36,7 +36,7 @@ Kegunaan tools
 
 
 
-3. Sebutkan dan jelaskan ektension itu apa, dan contohnya dan penerapannya(didalam vs code)
+Sebutkan dan jelaskan ektension itu apa, dan contohnya dan penerapannya(didalam vs code)
 
 extension merupakan plug-in yang digunakan untuk menjalankan sebuah project, untuk mempercantik tampilan vscode,mempermudah mengerjakan project dll (tergantung extension yang digunakan )
 
