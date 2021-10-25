@@ -35,11 +35,13 @@ Kegunaan tools
 8. setting digunakan untuk mensetting vscode itu sendiri.
 
 
+
 3. Sebutkan dan jelaskan ektension itu apa, dan contohnya dan penerapannya(didalam vs code)
 
 extension merupakan plug-in yang digunakan untuk menjalankan sebuah project, untuk mempercantik tampilan vscode,mempermudah mengerjakan project dll (tergantung extension yang digunakan )
 
 contoh serta penerapan
+
 1.exstension python,eksitensi ini digunakan untuk mendownload eksitensi pylance an jupiter yang berfungsi untuk linting,running,debuging.
 
 2.Python Extended adalah suatu cuplikan vscode yang memudahkan penulisan kode dengan python dengan menyediakan opsi penyelesaian beserta semua argumen.
